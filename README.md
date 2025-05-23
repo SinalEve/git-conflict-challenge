@@ -1,2 +1,2 @@
-# git-conflict-challenge 3?
+# git-conflict-challenge 2
 quete 1.6
